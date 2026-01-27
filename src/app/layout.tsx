@@ -11,8 +11,12 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "StackHacks | Binghamton University",
+  title: "StackHacks",
   description: "Link in bio for StackHacks, Binghamton University's premier hackathon organization.",
+  icons: {
+    icon: "/stackhacks_image.webp",
+    apple: "/stackhacks_image.webp",
+  },
 };
 
 export default function RootLayout({
