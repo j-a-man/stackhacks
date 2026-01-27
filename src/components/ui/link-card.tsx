@@ -40,25 +40,25 @@ export function LinkCard({ link }: LinkCardProps) {
                         <IconComponent size={24} />
                     </div>
 
-                    <div className="flex-1 min-w-0">
-                        <div className="flex items-center gap-2">
-                            <h3 className="font-semibold tracking-tight text-foreground truncate group-hover:text-primary transition-colors">
+                    <div className="flex-1 min-w-0 overflow-hidden">
+                        <div className="flex items-start gap-2 flex-wrap">
+                            <h3 className="font-semibold tracking-tight text-foreground break-words group-hover:text-primary transition-colors flex-1 min-w-0">
                                 {link.title}
                             </h3>
                             {link.featured && (
-                                <Badge variant="secondary" className="text-[10px] h-5 px-1.5 uppercase tracking-wider">
+                                <Badge variant="secondary" className="text-[10px] h-5 px-1.5 uppercase tracking-wider shrink-0">
                                     Featured
                                 </Badge>
                             )}
                         </div>
                         {link.description && (
-                            <p className="text-sm text-muted-foreground truncate group-hover:text-muted-foreground/80 transition-colors">
+                            <p className="text-sm text-muted-foreground break-words group-hover:text-muted-foreground/80 transition-colors mt-1">
                                 {link.description}
                             </p>
                         )}
                     </div>
 
-                    <div className="opacity-0 -translate-x-2 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-0">
+                    <div className="opacity-0 -translate-x-2 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-0 shrink-0">
                         <ExternalLink size={16} className="text-muted-foreground group-hover:text-primary" />
                     </div>
                 </CardContent>
