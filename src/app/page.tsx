@@ -65,7 +65,7 @@ function HomeContent() {
               </div>
             </div>
             <div className="inline-block rounded-full bg-primary/10 px-3 py-1 text-sm font-medium text-primary">
-              @stackhacks
+              @stackhacksbu
             </div>
             <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl bg-clip-text text-transparent bg-linear-to-r from-primary via-secondary to-primary bg-size-[200%_auto] animate-gradient">
               StackHacks Links

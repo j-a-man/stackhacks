@@ -40,7 +40,7 @@ export const initialLinks: LinkItem[] = [
     {
         id: "5",
         title: "Instagram",
-        url: "https://instagram.com/stackhacks",
+        url: "https://www.instagram.com/stackhacksbu/",
         category: "Social",
         icon: "Instagram",
         clicks: 220

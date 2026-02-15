@@ -1,29 +1,29 @@
 [
-    {
-        "id": "1",
-        "title": "StackHacks Spring 2026 Internship Application",
-        "url": "https://docs.google.com/forms/u/1/d/1OOENL0IIqzmKfrV6AjuM37yISMpKbSqMUn52_t4JtrE/edit",
-        "description": "Apply to be a part of the StackHacks team!",
-        "category": "Join Us",
-        "icon": "FileText",
-        "clicks": 124,
-        "featured": true
-    },
-    {
-        "id": "2",
-        "title": "Instagram",
-        "url": "https://www.instagram.com/stackhacksbu/",
-        "category": "Social",
-        "icon": "Instagram",
-        "clicks": 220
-    },
-    {
-        "id": "3",
-        "title": "GitHub",
-        "url": "https://github.com/stackhacksbu",
-        "description": "See what was built in previous years.",
-        "category": "Resources",
-        "icon": "Github",
-        "clicks": 56
-    }
+  {
+    "id": "1",
+    "title": "StackHacks Spring 2026 Internship Application",
+    "url": "https://docs.google.com/forms/u/1/d/1OOENL0IIqzmKfrV6AjuM37yISMpKbSqMUn52_t4JtrE/edit",
+    "description": "Apply to be a part of the StackHacks team!",
+    "category": "Join Us",
+    "icon": "FileText",
+    "clicks": 124,
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Instagram",
+    "url": "https://www.instagram.com/stackhacksbu/",
+    "category": "Social",
+    "icon": "Instagram",
+    "clicks": 220
+  },
+  {
+    "id": "3",
+    "title": "GitHub",
+    "url": "https://github.com/stackhacksbu",
+    "description": "See what was built in previous years.",
+    "category": "Resources",
+    "icon": "Github",
+    "clicks": 57
+  }
 ]

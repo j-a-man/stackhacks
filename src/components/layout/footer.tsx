@@ -6,11 +6,11 @@ export function Footer() {
             <div className="container mx-auto px-4">
                 <div className="flex flex-col items-center justify-center gap-6">
                     <div className="flex items-center gap-6">
-                        <a href="https://github.com/stackhacks" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-primary hover:scale-110 transform duration-200">
+                        <a href="https://github.com/stackhacksbu" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-primary hover:scale-110 transform duration-200">
                             <Github size={24} />
                             <span className="sr-only">GitHub</span>
                         </a>
-                        <a href="https://instagram.com/stackhacks" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-primary hover:scale-110 transform duration-200">
+                        <a href="https://www.instagram.com/stackhacksbu/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-primary hover:scale-110 transform duration-200">
                             <Instagram size={24} />
                             <span className="sr-only">Instagram</span>
                         </a>
