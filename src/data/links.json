@@ -1,16 +1,26 @@
 [
   {
     "id": "1",
-    "title": "Eboard Applications",
-    "url": "https://docs.google.com/forms/d/1SzuRsLvYWquSfLNLYaDrKczhSj3BUGqgIG_nxGArBP8/",
-    "description": "Apply to our Eboard!",
+    "title": "Project Teams",
+    "url": "https://docs.google.com/forms/d/1Usv1bTCmXlVacEkYjwUCDVdYKe9SLtQPpRhQcMLY3rE/edit",
+    "description": "Apply to join a StackHacks Project Team!",
     "category": "Join Us",
-    "icon": "FileText",
-    "clicks": 127,
+    "icon": "Users",
+    "clicks": 1,
     "featured": true
   },
   {
     "id": "2",
+    "title": "VP of Marketing Application",
+    "url": "https://docs.google.com/forms/d/1ii-rgx3H_djOGeMlLeT27tF9Xgpb8TgNhKxjP7W_64M/edit",
+    "description": "Apply to be our VP of Marketing!",
+    "category": "Join Us",
+    "icon": "Megaphone",
+    "clicks": 1,
+    "featured": true
+  },
+  {
+    "id": "3",
     "title": "Instagram",
     "url": "https://www.instagram.com/stackhacksbu/",
     "category": "Social",
@@ -18,7 +28,7 @@
     "clicks": 220
   },
   {
-    "id": "3",
+    "id": "4",
     "title": "GitHub",
     "url": "https://github.com/stackhacksbu",
     "description": "See what was built in previous years.",
